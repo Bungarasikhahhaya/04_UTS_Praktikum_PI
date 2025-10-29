@@ -4,7 +4,7 @@ Sistem ini menggunakan Whoosh untuk indexing, dan Cosine Similarity untuk melaku
 
 **Persiapan & Instalasi**
 1. Clone Repository atau Simpan File
-Simpan main.py dan folder dataset di satu direktori.
+Simpan tes.py dan folder dataset di satu direktori.
 
 2. Install Semua Dependensi
 Jalankan perintah berikut untuk menginstal library yang dibutuhkan:
