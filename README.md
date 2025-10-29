@@ -12,4 +12,4 @@ Jalankan perintah berikut untuk menginstal library yang dibutuhkan:
 
 **Cara Menjalankan Program**
 Jalankan CLI:
-**python main.py**
+**py tes.py**
